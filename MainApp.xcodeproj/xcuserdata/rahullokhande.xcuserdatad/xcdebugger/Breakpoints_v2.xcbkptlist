@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "76FC640A-E5FF-4794-BF95-1CE55D0FC527"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65F1F634-0F65-4FB8-8409-1C8D6C120123"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../.Trash/IPInfoViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "testFetchIPInformationFailure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DB802DF-DFE7-4F44-8040-0EAC4F72D933"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Photon/FindMyIP/Sources/FindMyIP/IPInfoScreen/IPInfoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchIPInfo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1831646E-B0E3-443C-9744-32230A969996"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Photon/FindMyIP/Sources/FindMyIP/IPInfoScreen/IPInfoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchIPInfo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7524738D-814E-434E-8326-77C93F6DC771"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Photon/FindMyIP/Sources/FindMyIP/NetwrokService/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchData(from:as:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7524738D-814E-434E-8326-77C93F6DC771 - fce92000b35de65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyIP.AlamoFireService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Foundation.URL, as: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "MainApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahullokhande/Rahul/TechVibz/SwiftUI/Photon/FindMyIP/Sources/FindMyIP/NetwrokService/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "7524738D-814E-434E-8326-77C93F6DC771 - c36f1bfa7e39427b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) throws -&gt; &#x3c4;_0_0 in FindMyIP.AlamoFireService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(from: Foundation.URL, as: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "MainApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahullokhande/Rahul/TechVibz/SwiftUI/Photon/FindMyIP/Sources/FindMyIP/NetwrokService/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DC33CD7-8CB5-4A54-B631-3820BEC0F654"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Photon/FindMyIP/Sources/FindMyIP/NetwrokService/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchData(from:as:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "469264D3-CAD8-4A34-8633-C7DDE06C060A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Photon/FindMyIP/Sources/FindMyIP/IPInfoScreen/IPInfoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchIPInfo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
